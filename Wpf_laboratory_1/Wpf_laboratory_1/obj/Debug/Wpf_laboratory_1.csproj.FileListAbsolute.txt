@@ -1,0 +1,29 @@
+c:\users\student\documents\visual studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\bin\Debug\Wpf_laboratory_1.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\App.g.cs
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1_MarkupCompile.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1_MarkupCompile.lref
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\bin\Debug\Wpf_laboratory_1.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\bin\Debug\Wpf_laboratory_1.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\MainWindow.baml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.g.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.csproj.GenerateResource.Cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.pdb
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\bin\Debug\Wpf_laboratory_1.exe.config
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\bin\Debug\Wpf_laboratory_1.exe
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\bin\Debug\Wpf_laboratory_1.pdb
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\MainWindow.g.cs
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\App.g.cs
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1_MarkupCompile.cache
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1_MarkupCompile.lref
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\MainWindow.baml
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.g.resources
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.Properties.Resources.resources
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.csproj.GenerateResource.cache
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.csproj.CoreCompileInputs.cache
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.exe
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.pdb
+U:\ВМСиС\лабораторные\Wpf_laboratory_1\Wpf_laboratory_1\obj\Debug\Wpf_laboratory_1.csprojAssemblyReference.cache
